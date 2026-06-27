@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumaiyak12/DSA-Practice/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sumaiyak12/DSA-Practice/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
