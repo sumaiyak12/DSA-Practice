@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sumaiyak12/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sumaiyak12/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sumaiyak12/DSA-Practice/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/sumaiyak12/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sumaiyak12/DSA-Practice/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sumaiyak12/DSA-Practice/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
