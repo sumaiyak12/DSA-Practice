@@ -47,6 +47,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumaiyak12/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sumaiyak12/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sumaiyak12/DSA-Practice/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumaiyak12/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
