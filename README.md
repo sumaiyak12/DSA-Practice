@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sumaiyak12/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sumaiyak12/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sumaiyak12/DSA-Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sumaiyak12/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumaiyak12/DSA-Practice/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumaiyak12/DSA-Practice/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sumaiyak12/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumaiyak12/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sumaiyak12/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
