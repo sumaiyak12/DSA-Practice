@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumaiyak12/DSA-Practice/tree/master/0054-spiral-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumaiyak12/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
