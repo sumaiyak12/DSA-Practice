@@ -21,18 +21,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sumaiyak12/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/sumaiyak12/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sumaiyak12/DSA-Practice/tree/master/0283-move-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/sumaiyak12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumaiyak12/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sumaiyak12/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sumaiyak12/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/sumaiyak12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sumaiyak12/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/sumaiyak12/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sumaiyak12/DSA-Practice/tree/master/0066-plus-one) |
+| [2965-find-missing-and-repeated-values](https://github.com/sumaiyak12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumaiyak12/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sumaiyak12/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/sumaiyak12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
