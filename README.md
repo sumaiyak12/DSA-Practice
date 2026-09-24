@@ -98,8 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sumaiyak12/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sumaiyak12/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
