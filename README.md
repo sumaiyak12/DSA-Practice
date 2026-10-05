@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumaiyak12/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sumaiyak12/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sumaiyak12/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/sumaiyak12/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/sumaiyak12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sumaiyak12/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sumaiyak12/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumaiyak12/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/sumaiyak12/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sumaiyak12/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sumaiyak12/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sumaiyak12/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sumaiyak12/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sumaiyak12/DSA-Practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sumaiyak12/DSA-Practice/tree/master/0392-is-subsequence) |
 ## Stack
